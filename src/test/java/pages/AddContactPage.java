@@ -36,4 +36,6 @@ public class AddContactPage extends BasePage {
         clicarSalvar();
         return new MePage(navegador);
     }
+
+    // novo projeto
 }
